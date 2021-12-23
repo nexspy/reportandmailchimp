@@ -21,7 +21,9 @@ This plugin was made from **wppb.me** plugin skeleton generator.
 
 ## Features
 
-1. Plugin settings page to set the mailchimp api and rest api token
+1. Plugin settings page to set the admin emails, regional emails, REST Api tokens, etc.
+2. Send automatically on cron jobs.
+3. Manual downloading of reports using date filters.
 
 
 ## Screenshots
