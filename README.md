@@ -26,6 +26,6 @@ This plugin was made from **wppb.me** plugin skeleton generator.
 
 ## Screenshots
 
-[Settings](nexspy.github.com/reportandmailchimp/images/1.settings.png)
+[Settings](https://raw.githubusercontent.com/nexspy/reportandmailchimp/main/images/1.settings.png)
 
-[Manual Export](nexspy.github.com/reportandmailchimp/images/2.manual_export.png)
+[Manual Export](https://raw.githubusercontent.com/nexspy/reportandmailchimp/main/images/2.manual_export.png)
